@@ -127,10 +127,18 @@
 
 <br/>
 
+## 테스트 진행
+| 기능 | 테스트 |
+|-------------|------------------------|
+| [Food Lens](https://wwns1411.tistory.com/35) | 음식 판별 F1-Score 14.6%p 개선 |
+| [AI Nutritionist](https://wwns1411.tistory.com/37) | 기능 수행시간 87%p 개선 |
+
+<br/>
+
 ## 기술적 이슈와 해결 과정
 
 | 이슈 | 해결 과정 |
 |-------------|------------------------|
 | 성능 최적화 | [실서비스를 고려한 성능 최적화](https://wwns1411.tistory.com/35) |
-| LLM 응답 품질 보장 및 안정성 보장 | [LLM 응답의 품질 검증과 안정적인 운영을 위한 Fallback 패턴](https://wwns1411.tistory.com/36) |
 | 데이터 파이프라인 자동화 | [AWS Lambda와 Slack을 활용한 데이터 파이프라인 구축기](https://wwns1411.tistory.com/37) |
+| LLM 응답 품질 보장 및 안정성 보장 | [LLM 응답의 품질 검증과 안정적인 운영을 위한 Fallback 패턴](https://wwns1411.tistory.com/36) |
