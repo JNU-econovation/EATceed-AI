@@ -130,8 +130,8 @@
 ## 테스트 진행
 | 기능 | 테스트 |
 |-------------|------------------------|
-| [Food Lens](https://wwns1411.tistory.com/35) | 음식 판별 F1-Score 14.6%p 개선 |
-| [AI Nutritionist](https://wwns1411.tistory.com/37) | 기능 수행시간 87%p 개선 |
+| [Food Lens](https://docs.google.com/spreadsheets/d/1GMYohMy4VjJp0N_zOFKCAoBP1BJWzdWiFGujZl7a3Lk/edit?usp=sharing) | 음식 판별 F1-Score 14.6%p 개선 |
+| [AI Nutritionist](https://docs.google.com/spreadsheets/d/1h-U6YjPermbsaTEuglnn3bXUdhim59SG_e6jCYiIDcY/edit?usp=sharing) | 기능 수행시간 92%p 개선 |
 
 <br/>
 
